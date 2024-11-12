@@ -1,0 +1,69 @@
+.main-content{
+   height: 100vh;
+   width: 100vw;
+   background-color: rgba(33,33,33,.9);
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.score-board{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;   
+}
+
+.score-card{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: aliceblue;
+}
+
+.score-button{
+    padding: 20px;
+    font-size: large;
+    font-weight: 600;
+    border-radius: 50%;
+}
+
+.score-buttons{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 20px;
+}
+
+.score-message{
+    padding: 20px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: aliceblue;
+    /* width: 90%; */
+}
+
+.iframe:hover{
+    overflow-y: hidden !important;
+}
+
+img{
+    width: 450px;
+    height: 400px;
+}
+
+.toss{
+    padding: 16px 28px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: rgb(26, 26, 26);
+    border-radius: 16px;
+}
+.toss-container{
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
