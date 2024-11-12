@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HandCircket/static/css/main.c5ac5895.css",
+    "main.js": "/HandCircket/static/js/main.b14ebb2f.js",
+    "static/js/453.dbd7c80f.chunk.js": "/HandCircket/static/js/453.dbd7c80f.chunk.js",
+    "static/media/logo.svg": "/HandCircket/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HandCircket/index.html",
+    "main.c5ac5895.css.map": "/HandCircket/static/css/main.c5ac5895.css.map",
+    "main.b14ebb2f.js.map": "/HandCircket/static/js/main.b14ebb2f.js.map",
+    "453.dbd7c80f.chunk.js.map": "/HandCircket/static/js/453.dbd7c80f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ac5895.css",
+    "static/js/main.b14ebb2f.js"
+  ]
+}
